@@ -17,8 +17,8 @@ O resultado da verificação será salvo no arquivo "sudoku_albgm.out". Se o Sud
 Formato do arquivo de entrada
 O arquivo de entrada deve conter primeiro as dimensões do tabuleiro e das subgrades (ex: "9x9\n3x3\n"), seguido pelos números do tabuleiro separados por espaços e quebras de linha.
 
-Exemplo de arquivo de entrada:
-9x9
+Exemplo de arquivo de entrada:<br>
+9x9<br>
 3x3<br>
 6 2 4 5 3 9 1 8 7<br>
 5 1 9 7 2 8 6 3 4<br>
