@@ -1,4 +1,4 @@
-# Sudoku-vaidator-using-multithreads
+# MULTITHREADED SOLVED SUDOKU VALIDATOR
 Este programa verifica se uma solução de Sudoku é válida ou não. Ele recebe um arquivo de entrada contendo o tabuleiro de Sudoku e as dimensões das subgrades, e retorna o resultado em um arquivo chamado "sudoku_albgm.out".
 
 Requisitos
